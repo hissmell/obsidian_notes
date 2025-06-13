@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "a3e3baf4c5e358bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4c37ba86e232bc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d21d489dcaafa8ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/01_Daily/2025-06-13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-13"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6218be049ef7bf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "73faaeeebbfaa2c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07a543173d591451",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "4ee8543778b30a94",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "e140d991a43dddfa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0426abd91b8a0838",
+    "type": "split",
+    "children": [
+      {
+        "id": "73e6dcebe9882edb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32d91c173b6d9bb7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects/Personal/NoteManager/Road map.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Road map 의 백링크"
+            }
+          },
+          {
+            "id": "4dc3e0053352b9be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f56897d99f0fa3a6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9848eaf9dac54163",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projects/Personal/NoteManager/Road map.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Road map 의 개요"
+            }
+          },
+          {
+            "id": "3af20988cbe904f6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "07a543173d591451",
+  "lastOpenFiles": [
+    "Calendar/01_Daily/2025-06-12.md",
+    "Calendar/01_Daily/2025-06-13.md",
+    "Resources/Books/Q & A.md",
+    "Pasted image 20250612152036.png",
+    "Pasted image 20250612144356.png",
+    "Projects/Personal/NoteManager/Road map.md",
+    "Calendar/01_Daily/2025-06-11.md",
+    "Pasted image 20250612140943.png",
+    "Pasted image 20250612133742.png",
+    "Projects/Personal/NoteManager/이건 노트매니저 테스트파일임.md",
+    "Calendar/01_Daily/2025-06-09.md",
+    "Resources/SOFC/SOFC 전반적 정리.md",
+    "Calendar/01_Daily/2025-06-01.md",
+    "test/테스트 파일 생성.md",
+    "Calendar/02_Weekly/2025-W22.md",
+    "test/2025-06-09.md",
+    "Projects/Personal/NoteManager/Road map 1.md",
+    "Pasted image 20250528184834.png",
+    "test",
+    "Projects/Personal/NoteManager/test created file.md",
+    "asdsdasdsdadsasda.md",
+    "test_created.md",
+    "Projects/Personal/NoteManager",
+    "Resources/Books/Fluent_Python",
+    "Resources/Books",
+    "Pasted image 20250528200840.png",
+    "Pasted image 20250528194333.png",
+    "Pasted image 20250528192640.png",
+    "Calendar/01_Daily/2025-05-28.md",
+    "Pasted image 20250528191336.png",
+    "Projects/School/SOFC_WF_AL/2025 춘계 공업화학회 포스터.md",
+    "Resources/SOFC",
+    "Projects/School/무제.md",
+    "Projects/School/SOFC_WF_AL",
+    "Calendar/01_Daily/2025-05-30.md",
+    "Calendar/01_Daily/2025-05-29.md",
+    "2025-05-28.md",
+    "Test.md",
+    "Calendar/04_Yearly",
+    "Calendar/03_Monthly",
+    "Calendar/02_Weekly",
+    "Calendar/01_Daily",
+    "Welcome.md"
+  ]
+}
