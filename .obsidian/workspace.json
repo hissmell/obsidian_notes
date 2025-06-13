@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/01_Daily/2025-06-13.md",
+                "file": "Projects/Personal/Phess/Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-13"
+              "title": "Roadmap"
             }
           }
         ]
@@ -181,9 +181,12 @@
   },
   "active": "d21d489dcaafa8ef",
   "lastOpenFiles": [
+    "Projects/Personal/Phess/Scheme.canvas",
+    "Projects/Personal/Phess/Roadmap.md",
+    "Calendar/01_Daily/2025-06-13.md",
+    "Projects/Personal/Phess",
     "README.md",
     "Calendar/01_Daily/2025-06-12.md",
-    "Calendar/01_Daily/2025-06-13.md",
     "Resources/Books/Q & A.md",
     "Pasted image 20250612152036.png",
     "Pasted image 20250612144356.png",
@@ -222,8 +225,6 @@
     "Test.md",
     "Calendar/04_Yearly",
     "Calendar/03_Monthly",
-    "Calendar/02_Weekly",
-    "Calendar/01_Daily",
-    "Welcome.md"
+    "Calendar/02_Weekly"
   ]
 }
