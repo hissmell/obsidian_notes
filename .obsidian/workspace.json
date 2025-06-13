@@ -175,11 +175,13 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "07a543173d591451",
+  "active": "d21d489dcaafa8ef",
   "lastOpenFiles": [
+    "README.md",
     "Calendar/01_Daily/2025-06-12.md",
     "Calendar/01_Daily/2025-06-13.md",
     "Resources/Books/Q & A.md",
