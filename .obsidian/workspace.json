@@ -11,14 +11,17 @@
             "id": "d21d489dcaafa8ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Projects/Personal/Phess/Roadmap.md",
-                "mode": "source",
-                "source": false
+                "file": "Projects/School/SamSungElectic/로드맵.canvas",
+                "viewState": {
+                  "x": -80,
+                  "y": 360,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Roadmap"
+              "icon": "lucide-layout-dashboard",
+              "title": "로드맵"
             }
           }
         ]
@@ -181,7 +184,14 @@
   },
   "active": "d21d489dcaafa8ef",
   "lastOpenFiles": [
+    "Projects/School/SamSungElectic/배경지식/무제.md",
+    "Projects/School/SamSungElectic/로드맵.canvas",
+    "Pasted image 20250616165517.png",
+    "Projects/School/SamSungElectic/무제.md",
+    "Projects/School/SamSungElectic/배경지식",
     "Projects/Personal/Phess/Scheme.canvas",
+    "Projects/School/SamSungElectic",
+    "Projects/무제",
     "Projects/Personal/Phess/Roadmap.md",
     "Calendar/01_Daily/2025-06-13.md",
     "Projects/Personal/Phess",
@@ -220,11 +230,6 @@
     "Projects/School/무제.md",
     "Projects/School/SOFC_WF_AL",
     "Calendar/01_Daily/2025-05-30.md",
-    "Calendar/01_Daily/2025-05-29.md",
-    "2025-05-28.md",
-    "Test.md",
-    "Calendar/04_Yearly",
-    "Calendar/03_Monthly",
-    "Calendar/02_Weekly"
+    "Calendar/01_Daily/2025-05-29.md"
   ]
 }
