@@ -4,42 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d4c37ba86e232bc2",
+        "id": "0ccd9d0d194291cc",
         "type": "tabs",
         "children": [
           {
-            "id": "d21d489dcaafa8ef",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Projects/School/SamSungElectic/로드맵.canvas",
-                "viewState": {
-                  "x": -80,
-                  "y": 360,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "로드맵"
-            }
-          },
-          {
-            "id": "6e626be7c73888ee",
+            "id": "a885b376d592f004",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/School/SamSungElectic/배경지식/(요약) J. Adv. Cream. 3, 76-82 (2014).md",
+                "file": "Projects/School/SamSungElectic/배경지식/(요약) J. Adv. Ceram. 3, 76-82 (2014).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(요약) J. Adv. Cream. 3, 76-82 (2014)"
+              "title": "(요약) J. Adv. Ceram. 3, 76-82 (2014)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 484.5
   },
   "right": {
     "id": "0426abd91b8a0838",
@@ -197,22 +179,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e626be7c73888ee",
+  "active": "a885b376d592f004",
   "lastOpenFiles": [
-    "Projects/School/SamSungElectic/배경지식/s40145-014-0096-y.pdf",
     "Projects/School/SamSungElectic/배경지식/(요약) Int. J. Miner. Metall. Mater, 16, 345 (2009).md",
-    "Projects/School/SamSungElectic/배경지식/Effect+of+milling+process+on+the+core-shell+structures+and+dielectric+properties+of+fine-grained+BaTiO3-based+X7R+ceramic+materials.pdf",
-    "Projects/School/SamSungElectic/배경지식/(요약) Appl. Phys. Lett. 102, 112915.md",
+    "Pasted image 20250617175108.png",
+    "Pasted image 20250617174923.png",
+    "Pasted image 20250617174455.png",
+    "Pasted image 20250617174349.png",
+    "Projects/School/SamSungElectic/배경지식/(요약) J. Am. Ceram. Soc. 98, 2435-2438 (2012).md",
     "Projects/School/SamSungElectic/배경지식/(요약) J. Eur. Ceram. Soc. 45, 117326-2952 (2025).md",
     "Projects/School/SamSungElectic/배경지식/(요약) Jpn. Appl. Phys. 36, 5954-85957 (1997).md",
-    "Projects/School/SamSungElectic/배경지식/(요약) J. Am. Ceram. Soc. 98, 2435-2438 (2012).md",
     "Projects/School/SamSungElectic/로드맵.canvas",
+    "Projects/School/SamSungElectic/배경지식/Kishi_1997_Jpn._J._Appl._Phys._36_5954.pdf",
+    "Projects/School/SamSungElectic/배경지식/Effect+of+milling+process+on+the+core-shell+structures+and+dielectric+properties+of+fine-grained+BaTiO3-based+X7R+ceramic+materials.pdf",
+    "Pasted image 20250617140230.png",
+    "Pasted image 20250617135133.png",
+    "Pasted image 20250617134943.png",
+    "Pasted image 20250617134828.png",
+    "Pasted image 20250617134608.png",
+    "Pasted image 20250617134144.png",
+    "Projects/School/SamSungElectic/배경지식/(요약) J. Adv. Ceram. 3, 76-82 (2014).md",
+    "Projects/School/SamSungElectic/배경지식/(요약) Appl. Phys. Lett. 102, 112915 (2013).md",
+    "Projects/School/SamSungElectic/배경지식/s40145-014-0096-y.pdf",
     "Projects/School/SamSungElectic/배경지식/1-s2.0-S0955221925001463-main.pdf",
     "Projects/School/SamSungElectic/배경지식/Journal of the American Ceramic Society - 2012 - Jeon - The Mechanism of Core Shell Structure Formation During Sintering of.pdf",
     "Projects/School/SamSungElectic/배경지식/112915_1_online.pdf",
-    "Projects/School/SamSungElectic/배경지식/(요약) J. Adv. Cream. 3, 76-82 (2014).md",
     "Projects/School/SamSungElectic/무제.md",
-    "Pasted image 20250616165517.png",
     "Projects/School/SamSungElectic/배경지식",
     "Projects/Personal/Phess/Scheme.canvas",
     "Projects/School/SamSungElectic",
@@ -223,12 +215,8 @@
     "README.md",
     "Calendar/01_Daily/2025-06-12.md",
     "Resources/Books/Q & A.md",
-    "Pasted image 20250612152036.png",
-    "Pasted image 20250612144356.png",
     "Projects/Personal/NoteManager/Road map.md",
     "Calendar/01_Daily/2025-06-11.md",
-    "Pasted image 20250612140943.png",
-    "Pasted image 20250612133742.png",
     "Projects/Personal/NoteManager/이건 노트매니저 테스트파일임.md",
     "Calendar/01_Daily/2025-06-09.md",
     "Resources/SOFC/SOFC 전반적 정리.md",
@@ -237,15 +225,8 @@
     "Calendar/02_Weekly/2025-W22.md",
     "test/2025-06-09.md",
     "Projects/Personal/NoteManager/Road map 1.md",
-    "Pasted image 20250528184834.png",
-    "test",
     "Projects/Personal/NoteManager/test created file.md",
     "asdsdasdsdadsasda.md",
-    "test_created.md",
-    "Projects/Personal/NoteManager",
-    "Pasted image 20250528200840.png",
-    "Pasted image 20250528194333.png",
-    "Pasted image 20250528192640.png",
-    "Pasted image 20250528191336.png"
+    "test_created.md"
   ]
 }

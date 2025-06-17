@@ -10,7 +10,7 @@
 		{"id":"75562b62ef630ca9","type":"text","text":"## 연구개발 목표(달성목표)","x":400,"y":500,"width":260,"height":100},
 		{"id":"471e40fbe77e60a4","type":"text","text":"## 주요 결과물","x":400,"y":640,"width":260,"height":100},
 		{"id":"967a59b708a1b937","type":"text","text":"## 기대효과","x":400,"y":780,"width":260,"height":100},
-		{"id":"d3e95d8e4f22163d","type":"text","text":"# 삼성전기 PPT 레퍼런스\n- J. Am. Ceram. Soc. 98, 2435-2438 (2012)[[(요약) J. Am. Ceram. Soc. 98, 2435-2438 (2012)]]\n- Jpn. Appl. Phys. 36, 5954-85957 (1997[[(요약) Jpn. Appl. Phys. 36, 5954-85957 (1997)]]\n- Int. J. Miner. Metall. Mater, 16, 345 (2009)[[(요약) Int. J. Miner. Metall. Mater, 16, 345 (2009)]]\n- J. Adv. Cream. 3, 76-82 (2014)[[(요약) J. Adv. Cream. 3, 76-82 (2014)]]\n- Appl. Phys. Lett. 102, 112915[[(요약) Appl. Phys. Lett. 102, 112915]]\n- J. Eur. Ceram. Soc. 45, 117326-2952","x":-880,"y":200,"width":520,"height":700}
+		{"id":"d3e95d8e4f22163d","type":"text","text":"# 삼성전기 PPT 레퍼런스\n- J. Am. Ceram. Soc. 98, 2435-2438 (2012)[[(요약) J. Am. Ceram. Soc. 98, 2435-2438 (2012)]]\n- Jpn. Appl. Phys. 36, 5954-85957 (1997[[(요약) Jpn. Appl. Phys. 36, 5954-85957 (1997)]]\n- Int. J. Miner. Metall. Mater, 16, 345 (2009)[[(요약) Int. J. Miner. Metall. Mater, 16, 345 (2009)]]\n- J. Adv. Cream. 3, 76-82 (2014)[[(요약) J. Adv. Ceram. 3, 76-82 (2014)]]\n- Appl. Phys. Lett. 102, 112915 (2013)[[(요약) Appl. Phys. Lett. 102, 112915 (2013)]]\n- J. Eur. Ceram. Soc. 45, 117326-2952 (2014)","x":-880,"y":200,"width":520,"height":700}
 	],
 	"edges":[
 		{"id":"f145ad8a92f12c58","fromNode":"1c90b3852eeb460f","fromSide":"right","toNode":"77de4c918a57a7a0","toSide":"left"},
