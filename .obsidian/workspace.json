@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "0ccd9d0d194291cc",
+        "id": "5e78bd8e450e088b",
         "type": "tabs",
         "children": [
           {
-            "id": "a885b376d592f004",
+            "id": "2130d6de25ad59b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/School/SamSungElectic/배경지식/(요약) J. Eur. Ceram. Soc. 45, 117326-2952 (2025).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(요약) J. Eur. Ceram. Soc. 45, 117326-2952 (2025)"
+            }
+          },
+          {
+            "id": "8d1d38a34649bb93",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +35,8 @@
               "title": "(요약) J. Adv. Ceram. 3, 76-82 (2014)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,29 +194,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a885b376d592f004",
+  "active": "8d1d38a34649bb93",
   "lastOpenFiles": [
+    "Projects/School/SamSungElectic/배경지식/(요약) J. Eur. Ceram. Soc. 45, 117326-2952 (2025).md",
+    "Projects/School/SamSungElectic/배경지식/(요약) Jpn. Appl. Phys. 36, 5954-85957 (1997).md",
+    "Projects/School/SamSungElectic/배경지식/(요약) J. Am. Ceram. Soc. 98, 2435-2438 (2012).md",
+    "Projects/School/SamSungElectic/배경지식/(요약) J. Adv. Ceram. 3, 76-82 (2014).md",
+    "Projects/School/SamSungElectic/배경지식/1-s2.0-S0955221925001463-main.pdf",
+    "Projects/School/SamSungElectic/배경지식/(요약) Appl. Phys. Lett. 102, 112915 (2013).md",
     "Projects/School/SamSungElectic/배경지식/(요약) Int. J. Miner. Metall. Mater, 16, 345 (2009).md",
+    "Pasted image 20250618125946.png",
+    "Pasted image 20250618124959.png",
+    "Pasted image 20250618124555.png",
+    "Pasted image 20250618124323.png",
+    "Pasted image 20250618124114.png",
+    "Pasted image 20250618123857.png",
+    "Pasted image 20250618123546.png",
+    "Projects/School/SamSungElectic/배경지식/s40145-014-0096-y.pdf",
     "Pasted image 20250617175108.png",
     "Pasted image 20250617174923.png",
     "Pasted image 20250617174455.png",
-    "Pasted image 20250617174349.png",
-    "Projects/School/SamSungElectic/배경지식/(요약) J. Am. Ceram. Soc. 98, 2435-2438 (2012).md",
-    "Projects/School/SamSungElectic/배경지식/(요약) J. Eur. Ceram. Soc. 45, 117326-2952 (2025).md",
-    "Projects/School/SamSungElectic/배경지식/(요약) Jpn. Appl. Phys. 36, 5954-85957 (1997).md",
     "Projects/School/SamSungElectic/로드맵.canvas",
     "Projects/School/SamSungElectic/배경지식/Kishi_1997_Jpn._J._Appl._Phys._36_5954.pdf",
     "Projects/School/SamSungElectic/배경지식/Effect+of+milling+process+on+the+core-shell+structures+and+dielectric+properties+of+fine-grained+BaTiO3-based+X7R+ceramic+materials.pdf",
-    "Pasted image 20250617140230.png",
-    "Pasted image 20250617135133.png",
-    "Pasted image 20250617134943.png",
-    "Pasted image 20250617134828.png",
-    "Pasted image 20250617134608.png",
-    "Pasted image 20250617134144.png",
-    "Projects/School/SamSungElectic/배경지식/(요약) J. Adv. Ceram. 3, 76-82 (2014).md",
-    "Projects/School/SamSungElectic/배경지식/(요약) Appl. Phys. Lett. 102, 112915 (2013).md",
-    "Projects/School/SamSungElectic/배경지식/s40145-014-0096-y.pdf",
-    "Projects/School/SamSungElectic/배경지식/1-s2.0-S0955221925001463-main.pdf",
     "Projects/School/SamSungElectic/배경지식/Journal of the American Ceramic Society - 2012 - Jeon - The Mechanism of Core Shell Structure Formation During Sintering of.pdf",
     "Projects/School/SamSungElectic/배경지식/112915_1_online.pdf",
     "Projects/School/SamSungElectic/무제.md",
