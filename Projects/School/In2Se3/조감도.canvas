@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"1d48eee433725f4d","type":"group","x":-180,"y":-520,"width":290,"height":780,"label":"vdW 2D material"},
+		{"id":"724a89446654e238","type":"text","text":"# In2Se3","x":-620,"y":-160,"width":250,"height":60},
+		{"id":"78399001a48c2bf0","type":"text","text":"# alpha","x":-160,"y":-500,"width":250,"height":60},
+		{"id":"4de1be3212b55c2e","type":"text","text":"# beta","x":-160,"y":-100,"width":250,"height":60},
+		{"id":"36a6be97ede70cff","type":"text","text":"# beta prime","x":-160,"y":180,"width":250,"height":60},
+		{"id":"3cdb23db0fab8130","type":"text","text":"# gamma","x":-160,"y":380,"width":250,"height":60},
+		{"id":"ba0456e6de669e97","type":"text","text":"# InSe system 참고\n![[Pasted image 20250620104547.png]]\n\nInorg. Chem. 2018, 57, 11775−11781\n[[küpers-et-al-2018-controlled-crystal-growth-of-indium-selenide-in2se3-and-the-crystal-structures-of-α-in2se3.pdf]]","x":-1080,"y":-70,"width":680,"height":570},
+		{"id":"7998fb769cfbb0b7","type":"text","text":"# 유닛셀 최적화\n[[alpha 유닛셀 최적화]]\n","x":240,"y":-500,"width":250,"height":140},
+		{"id":"3d52761cb68265a2","type":"text","text":"# 유닛셀 최적화\n[[alpha 유닛셀 최적화]]\n","x":240,"y":-500,"width":250,"height":140}
+	],
+	"edges":[
+		{"id":"210b92726abb320a","fromNode":"78399001a48c2bf0","fromSide":"right","toNode":"7998fb769cfbb0b7","toSide":"left"},
+		{"id":"4365188451ae779c","fromNode":"724a89446654e238","fromSide":"right","toNode":"78399001a48c2bf0","toSide":"left"},
+		{"id":"0703d4cc361d3fb9","fromNode":"724a89446654e238","fromSide":"right","toNode":"4de1be3212b55c2e","toSide":"left"},
+		{"id":"43e581da91393cd0","fromNode":"724a89446654e238","fromSide":"right","toNode":"36a6be97ede70cff","toSide":"left"},
+		{"id":"50f906e88c03d8a8","fromNode":"724a89446654e238","fromSide":"right","toNode":"3cdb23db0fab8130","toSide":"left"}
+	]
+}

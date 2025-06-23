@@ -99,3 +99,59 @@ target = decorate(target)
 - 덕 타이핑 (duck typing) 이 뭐임?
 > 특정 객체 사용하기 위해서 적절한 객체인지를 검사할 때, 정확한 클래스를 검사하기보다는 원하는 작동 메서드를 가지고 있는지 검사하는 방법. "오리인지 검사하지 말고, 오리처럼 걷고, 오리처럼 꽥꽥 대는지를 검사해라 (알렉스 마르텔리)" 라는 말에서 유래했음
 	![[Pasted image 20250612152036.png]]
+
+---
+## Chap 15. Context Manager and Else Block
+
+- __EAFP__
+	- Easier to Ask Forgiveness than Permission
+	- 용서를 구하는 것이 허락을 구하는 것보다 쉽다
+	- 타입 검사를 하지 않고, 일단 실행을 해보고 오류가 나면 이후 예외 처리를 진행하는 방식.
+	- 파이썬에서 권장하는 에러 처리 흐름
+- __LBYL__
+	- Leap Before You Leap
+	- 누울 자리를 보고 발을 뻗어라
+	- 일단 타입 검사를 먼저 진행 한 뒤에, 일치하는 경우에만 이후 코드를 진행하는 방식
+	- 예시
+```python
+# EAFP style
+try:
+    value = mapping[key]
+except:
+	print("there's no keys in your dictionary.")
+else:
+	return value
+
+# LBYL style
+if key in mapping:
+    return mapping[key]
+else:
+	print("there's no keys in your dictionary.")
+```
+
+- __contextlib.contextmanager__
+	- with 구문을 사용하기 위한 클래스 사용을 간편화한 문법.
+	- __enter__, __exit__ 메서드를 yield 전후로 나눠서 구현하면 됨
+```python
+def looking_glass():
+	def reversed_text(text):
+	    return text[::-1]
+	original_stdout = sys.stdout.write
+	reversed_stdout = reversed_text(original_stdout)
+	sys.stdout.write = reversed_stdout
+
+	try:
+	    yield 'JABBERWOCKY' # 여기 이전까지 __enter__ 시 시행
+	except ZeroDivisionError:
+	    print("Please Do Not Divice by Zero!") # 에러 처리
+	finally:
+	    sys.stdout.write = original_stdout # 여기부터 __exit__ 시행
+	    if msg:
+	        print(msg)
+```
+
+---
+## Chap 16. Coroutine
+- __coroutine__
+	- 정의: 일반적으로 "서브루틴"(일반적 함수) 과정은 "호출→실행→리턴 "의 단방향 단계로 이뤄짐. 코루틴은 __중간에 실행을 멈출 수 있거나__, __필요할 때, 중단 시점에서 다시 시작할 수 있으며__, __호출자와 값을 주고 받을 수도 있음__. 즉, 협력적(ConCurrent) 으로 시행될 수 있는 과정을 의미함
+	- 예시: __제너레이터 기반 문법__ -> yield 키워드를 활용하여 중단 지점 설정 가능
