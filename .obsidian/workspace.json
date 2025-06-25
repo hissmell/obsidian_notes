@@ -11,45 +11,14 @@
             "id": "2130d6de25ad59b7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Projects/School/In2Se3/조감도.canvas",
-                "viewState": {
-                  "x": -295,
-                  "y": -10,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "조감도"
-            }
-          },
-          {
-            "id": "c48844db095b3c90",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/School/SamSungElectic/배경지식/(요약) J. Adv. Ceram. 3, 76-82 (2014).md",
+                "file": "Projects/School/SamSungElectic/src/20250625 메일/20250625 메일 문의 답변.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(요약) J. Adv. Ceram. 3, 76-82 (2014)"
-            }
-          },
-          {
-            "id": "08df9bcab0e36502",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Books/Fluent_Python/Practice.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Practice"
+              "title": "20250625 메일 문의 답변"
             }
           }
         ]
@@ -212,40 +181,40 @@
   },
   "active": "2130d6de25ad59b7",
   "lastOpenFiles": [
+    "Projects/School/SamSungElectic/src/20250625 메일/1-s2.0-S0955221907005249-main.pdf",
+    "Projects/School/SamSungElectic/배경지식/(요약) J. Adv. Ceram. 3, 76-82 (2014).md",
+    "Projects/School/SamSungElectic/src/20250625 메일/20250625 메일 문의 답변.md",
+    "Projects/School/SamSungElectic/src/20250625 메일/Journal of the American Ceramic Society - 2013 - Chang - Effect of MgO and Y2O3 Doping on the Formation of Core Shell.pdf",
+    "Projects/School/SamSungElectic/src/20250625 메일",
+    "Projects/School/SamSungElectic/src",
+    "Projects/School/SamSungElectic/로드맵.canvas",
+    "Projects/School/In2Se3/조감도.canvas",
+    "Pasted image 20250625121333.png",
+    "Pasted image 20250625121320.png",
+    "Pasted image 20250625121244.png",
+    "Pasted image 20250625121228.png",
+    "Pasted image 20250625115801.png",
+    "Pasted image 20250625110205.png",
+    "Pasted image 20250625104921.png",
+    "Pasted image 20250625104915.png",
+    "Pasted image 20250625104230.png",
+    "Pasted image 20250528191336.png",
     "Resources/Books/Fluent_Python/Practice.md",
     "Projects/School/In2Se3/src/küpers-et-al-2018-controlled-crystal-growth-of-indium-selenide-in2se3-and-the-crystal-structures-of-α-in2se3.pdf",
-    "Pasted image 20250623145320.png",
-    "Pasted image 20250623144556.png",
-    "Pasted image 20250623144545.png",
-    "Pasted image 20250623144526.png",
     "Resources/Books/Fluent_Python/Q & A.md",
     "Resources/SOFC/SOFC 전반적 정리.md",
     "Projects/School/SamSungElectic/배경지식/(요약) J. Eur. Ceram. Soc. 45, 117326-2952 (2025).md",
     "Projects/School/SamSungElectic/배경지식/1-s2.0-S0955221925001463-main.pdf",
     "Projects/School/SamSungElectic/배경지식/s40145-014-0096-y.pdf",
-    "Projects/School/SamSungElectic/배경지식/(요약) J. Adv. Ceram. 3, 76-82 (2014).md",
     "Projects/School/SamSungElectic/배경지식/(요약) J. Am. Ceram. Soc. 98, 2435-2438 (2012).md",
     "Projects/School/SamSungElectic/배경지식/(요약) Int. J. Miner. Metall. Mater, 16, 345 (2009).md",
     "Projects/School/SamSungElectic/배경지식/(요약) Appl. Phys. Lett. 102, 112915 (2013).md",
     "Projects/School/SamSungElectic/배경지식/(요약) Jpn. Appl. Phys. 36, 5954-85957 (1997).md",
-    "Projects/School/SamSungElectic/로드맵.canvas",
     "Projects/School/SamSungElectic/배경지식/Effect+of+milling+process+on+the+core-shell+structures+and+dielectric+properties+of+fine-grained+BaTiO3-based+X7R+ceramic+materials.pdf",
     "Projects/School/SamSungElectic/배경지식/112915_1_online.pdf",
     "Projects/School/In2Se3/alpha 유닛셀 최적화.md",
-    "Projects/School/In2Se3/조감도.canvas",
-    "Pasted image 20250620131153.png",
-    "Pasted image 20250620105449.png",
-    "Pasted image 20250620105201.png",
-    "Pasted image 20250620105022.png",
     "Projects/School/In2Se3/src",
-    "Pasted image 20250620104547.png",
-    "Pasted image 20250620104454.png",
     "Calendar/01_Daily/2025-06-20.md",
-    "Projects/School/In2Se3",
-    "Projects/School/SamSungElectic/배경지식/Kishi_1997_Jpn._J._Appl._Phys._36_5954.pdf",
-    "Projects/School/SamSungElectic/배경지식/Journal of the American Ceramic Society - 2012 - Jeon - The Mechanism of Core Shell Structure Formation During Sintering of.pdf",
-    "Projects/School/SamSungElectic/무제.md",
-    "Projects/School/SamSungElectic/배경지식",
     "Projects/Personal/Phess/Scheme.canvas",
     "Projects/Personal/Phess/Roadmap.md",
     "Calendar/01_Daily/2025-06-13.md",
