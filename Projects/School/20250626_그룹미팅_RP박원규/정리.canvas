@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"66de3312ff236a12","type":"text","text":"- MLP가 마주하고 있는 문제점 2개 제안\n\n\t- __Accuracy <-> Efficiency tradeoff__\n\t\t- 정확도를 올리고 싶으면 모델의 사이즈가 커져야 함\n\t\t- 모델의 사이즈가 커지면 efficiency 감소\n\t- __Task specific <-> General perpose__\n\t\t- 일반적으로 특정 task에 특화하여 모델을 훈련시킬때, 해당 성능 올라감\n\t\t- 일반화된 MLP일 수록 task specific model 보다 성능이 하락되는 것이 일반적임","x":-920,"y":60,"width":540,"height":320},
+		{"id":"38217f8eb4ca907d","x":-820,"y":-20,"width":250,"height":60,"type":"text","text":"# Intro"},
+		{"id":"01c4cc5ea753e73d","type":"text","text":"## MoLE Archtecture\n\n__Accuracy <-> Efficiency tradeoff 해결__\n\n훈련 단계에서 파라미터 수 엄청 늘려서 accuracy 증가\n\ninference 단계에서는 파라미터 수를 줄여서 efficiency 증가\n\n두마리 토끼를 한번에!\n\n","x":-160,"y":-240,"width":700,"height":360},
+		{"id":"a317aa407e2a74fa","type":"text","text":"## Multi-Task Learning\n\n__Task specific <-> General perpose__\n\nembedding 단계에서 전체 시스템 charge, spin, DFT setting을 추가하였음\n\nUMA-lg 모델에서 일관되게 Multi-task 모델이 Single-task 모델 보다 훈련 성능이 증가하였음\n\n아주 굳\n\n","x":-160,"y":300,"width":700,"height":360},
+		{"id":"94989fd307cfe908","type":"text","text":"# Method","x":40,"y":-340,"width":250,"height":60},
+		{"id":"5c626c7fc733ce14","type":"text","text":"# Datasets","x":900,"y":-340,"width":250,"height":60},
+		{"id":"2a1f40c139dde737","type":"text","text":"## OMol25\n- molecule system\n\n## OMat24\n- material system\n\n## OC20\n- material-molecule system\n\n## ODAC23\n- material-molecule system\n\n## OMC25\n- molecule with pbc system\n","x":900,"y":-240,"width":560,"height":600}
+	],
+	"edges":[
+		{"id":"ecf9dcb374d2cfd2","fromNode":"66de3312ff236a12","fromSide":"right","toNode":"01c4cc5ea753e73d","toSide":"left"},
+		{"id":"93b044acacc789aa","fromNode":"66de3312ff236a12","fromSide":"right","toNode":"a317aa407e2a74fa","toSide":"left"}
+	]
+}
